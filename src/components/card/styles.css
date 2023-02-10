@@ -1,0 +1,23 @@
+.Card 
+{
+    height: 10rem;
+    width: 50%;
+
+    background-color: #735bf2;
+    color: #fff;
+
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+
+    display: flex;
+    align-items: center;
+    padding: 2.4rem;
+    justify-content: space-between;
+
+    
+}
+
+.Card strong 
+{
+    font-size: 1.8rem;
+}
